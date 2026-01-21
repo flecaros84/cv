@@ -13,6 +13,7 @@ const translations = {
         about_p2: "Me formé inicialmente como Ingeniero Comercial, desarrollando una base sólida en finanzas, riesgo y toma de decisiones en contextos reales. A lo largo de mi experiencia profesional, el análisis de información se volvió un eje central de mi trabajo,  como una herramienta para comprender escenarios complejos y apoyar decisiones estratégicas.",
         about_p3: "En paralelo a mi desarrollo laboral, he mantenido una formación académica constante, incluyendo estudios de postgrado, experiencia internacional y, actualmente, una profundización técnica en ingeniería informática y ciencia de datos. Este recorrido responde a una evolución natural orientada a fortalecer mis capacidades analíticas y técnicas.",
         about_p4: "Hoy me posiciono como un profesional que integra finanzas, Business Intelligence y Ciencia de Datos, con foco en convertir datos en información útil para la toma de decisiones, entendiendo tanto el contexto del negocio como las limitaciones y oportunidades que presentan los datos.",
+        nav_trajectory: "Trayectoria",
         trajectory_title: "Trayectoria",
 
         traj_2026_prof_title: "Analista de Riesgo y Concesiones",
@@ -89,6 +90,7 @@ const translations = {
         about_p2: "I was initially trained as a Commercial Engineer, developing a solid foundation in finance, risk management, and decision-making in real-world contexts. Throughout my professional experience, information analysis became a central element of my work, serving as a tool to understand complex scenarios and support strategic decisions.",
         about_p3: "In parallel with my professional development, I have maintained continuous academic training, including postgraduate studies, international experience, and, currently, a deeper technical focus through computer engineering and data science studies. This path reflects a natural evolution aimed at strengthening my analytical and technical capabilities.",
         about_p4: "Today, I position myself as a professional who integrates finance, Business Intelligence, and Data Science, focused on turning data into useful information for decision-making, while understanding both business context and the constraints and opportunities inherent to data.",
+        nav_trajectory: "Trajectory",
         trajectory_title: "Trajectory",
 
         traj_2026_prof_title: "Risk and Concessions Analyst",
